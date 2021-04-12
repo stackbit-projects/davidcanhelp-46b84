@@ -4,7 +4,7 @@ params:
   palette: yellow
   header:
     title: Fjord
-    tagline: Minimal and clean blog theme
+    tagline: David can help me...
     logo_img: images/style-guide.jpg
     logo_img_alt: Fjord Logo
     background_img: images/header-bg.jpg
